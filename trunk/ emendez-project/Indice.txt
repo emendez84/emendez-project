@@ -1,0 +1,39 @@
+Capitulo 1 - Introducción
+Capitulo 2 - Modelos de procesos
+Capitulo 3 - Estandares de calidad
+Capitulo 4 - Propuesta: Fases iniciales del desarrollo
+Capitulo 5 - De los requerimientos, analisis y diseno
+Capitulo 6 - Caso de estudio: Aplicacion a proyecto
+Capitulo 7 - Conclusiones y trabajos futuros
+Referencias
+Anexos
+
+
+
+------------------------------------------------------------------------------------------------
+Moprosoft
+Moprosoft identifica los procesos empleados por las empresas de desarrollo y mantenimiento de software y los clasifica en tres categorías:
+
+Categoría de alta dirección (DIR): Aborda las prácticas de la alta dirección relativas a la gestión del negocio. Proporciona alineación a los procesos de la categoría de gerencia (GER) y se retroalimenta de la información que éstos generan.
+
+Categoría de Gerencia (GER): Aborda las prácticas de gestión de procesos, proyectos y recursos en función de las alineaciones establecidas a través de los procesos de alta dirección (DIR). Proporciona los elementos para el funcionamiento de los procesos de la siguiente categoría (Operación), recibe y evalúa la información que generan, y comunica los resultados a los procesos de alta dirección.
+
+Categoría de Operación (OPE): Aborda las prácticas para los proyectos de desarrollo y mantenimiento de software. Los procesos de esta categoría realizan las actividades de acuerdo con los elementos proporcionados por los de gerencia, y remite a ésta la información y los productos generados..
+
+
+
+
+CATEGORIA DE ALTA DIRECCIÓN		> Gestión de negocio
+
+
+
+CATEGORIA DE GERENCIA			> Gestión de procesos
+					> GESTION DE PROYECTOS
+					> Gestión de recursos
+						* Recursos humanos y ambiente de trabajo
+						* Bienes servicios e infraestructura
+					        * Conocimiento de la organización
+
+
+CATEGORIA OPERATIVA			> ADMINISTRACION DE PROYECTOS ESPECIFICOS
+					> DESARROLLO Y MENTANIMIENTO
